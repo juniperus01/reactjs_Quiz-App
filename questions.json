@@ -1,0 +1,49 @@
+[
+    {
+        "question":"What language does Node.js use?",
+        "optionA":"JavaScript",
+        "optionB":"Java",
+        "optionC":"Joomla Source Code",
+        "optionD":"Java Source",
+        "answer":"JavaScript"
+    },
+
+    {   
+        "question":"The programming language Swift; was created to replace what other programming language?",
+        "optionA": "C#",
+        "optionB":"Objective-C",
+        "optionC": "C++",
+        "optionD":"Ruby",
+        "answer":"Objective-C"
+    },
+
+    {
+       "question":"HTML is what type of language?",
+       "optionA":"Macro Language",
+       "optionB":"Programming Language",
+       "optionC":"Markup Language",
+       "optionD":"Scripting Language",
+       "answer":"Markup Language"
+       
+    },
+
+    { 
+        "question":"Which computer hardware device provides an interface for all other connected devices to communicate?",
+        "optionA":"Central Processing Unit",
+        "optionB":"Hard Disk Drive",
+        "optionC":"Random Access Memory",
+        "optionD":"Motherboard",
+        "answer":"Motherboard"
+    },
+
+    {
+        
+        "question":"In the programming language Java, which of these keywords would you put on a variable to make sure it does not get modified?",
+        "optionA":"Final",
+        "optionB":"Static",
+        "optionC":"Private",
+        "optionD":"Public",
+        "answer":"Final"
+    }
+]
+
